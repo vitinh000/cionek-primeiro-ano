@@ -1,0 +1,19 @@
+
+body { 
+    background: #504949;
+}
+h1 {
+    text-align: center;
+    border: 10px solid black;
+    background: #504949;
+}
+p{
+    text-align: center;
+    background: #cccccc;
+}    
+em strong {
+    color: aqua;
+}
+#missao{
+    font-size: 20px;
+}
